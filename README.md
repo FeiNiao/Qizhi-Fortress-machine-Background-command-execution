@@ -14,9 +14,6 @@
 切勿用于非法用途，非法使用造成的一切后果由自己承担，与作者无关。
 
 
-
-
-# Qizhi-Fortress-machine-Background-command-execution
 齐治科技堡垒机-后台命令执行检测脚本
 
 
