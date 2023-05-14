@@ -22,14 +22,15 @@
  python .\Qizhi-堡垒机后台命令执行检测.py -u https://xx.xx.xx.xx
 ```
 
-###### 绿色标记为疑似存在Qizhi-堡垒机后台命令执行漏洞
+##### 绿色标记为疑似存在Qizhi-堡垒机后台命令执行漏洞
 
 ![image](https://github.com/FeiNiao/Qizhi-Fortress-machine-Background-command-execution/assets/66779835/a9b1990f-4fe1-4d80-8e46-eb5b651c54b1)
+
 需要手工获取登录后cookie，再进行利用特定代码加上获取到的cookie重放进行命令执行
 
 
 
-###### 红色即代表未发现此漏洞
+##### 红色即代表未发现此漏洞
 
 ![image](https://github.com/FeiNiao/Qizhi-Fortress-machine-Background-command-execution/assets/66779835/8805b63b-1b9e-4a91-a3ba-daefa181d4fa)
 
